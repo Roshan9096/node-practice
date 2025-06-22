@@ -1,0 +1,23 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "node js practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roshan9096/node-practice.git"
+  },
+  "keywords": [
+    "js",
+    "node"
+  ],
+  "author": "roshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roshan9096/node-practice/issues"
+  },
+  "homepage": "https://github.com/Roshan9096/node-practice#readme"
+}
